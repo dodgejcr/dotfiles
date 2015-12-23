@@ -1,4 +1,6 @@
 ![Alt text](/chat.png?raw=true "Title")
+![Alt text][/plain.png?raw=true *Title*)
+
 ##Requirements
 AwesomeWM
 ZSH/oh-my-zsh
