@@ -1,0 +1,73 @@
+#############################
+# FONT & CURSOR              #
+##############################
+Xft.dpi: 76
+Xft.antialias: true
+Xft.hinting: true
+Xft.rgba: rgb
+Xft.autohint: false
+Xft.hintstyle: hintslight
+Xft.lcdfilter: lcddefault
+Xcursor.theme: Vanilla-DMZ
+Xcursor.size: 24
+
+##############################
+# URxvt                      #
+##############################
+URxvt.font: xft:Meslo LG S regular for Powerline-8
+URxvt.urgentOnBell: true
+URxvt.scrollBar: false
+URxvt*scrollTtyOutput: false
+URxvt*scrollWithBuffer: true
+URxvt*scrollTtyKeypress: true
+URxvt.perl-ext-common: default,matcher,vtwheel
+URxvt.iso14755: false
+URxvt.url-launcher: /usr/bin/qutebrowser
+URxvt.matcher.button: 1
+URxvt.depth: 32
+URxvt.background: [90]#baae9e
+
+##############################
+# COLORS                     #
+##############################
+#*background: #080d3b
+
+
+
+! special
+*.foreground:   #443d37
+*.cursorColor:  #443d37
+
+! black
+*.color0:       #897667
+*.color8:       #666666
+
+! red
+*.color1:       #cf6a4c
+*.color9:       #cf6a4c
+
+! green
+*.color2:       #3a8309
+*.color10:      #3a8309
+
+! yellow
+*.color3:       #f9ee98
+*.color11:      #f9ee98
+
+! blue
+*.color4:       #0070d9
+*.color12:      #0070d9
+
+! magenta
+*.color5:       #a308b1
+*.color13:      #a308b1
+
+! cyan
+*.color6:       #1f4166
+*.color14:      #1f4166
+
+! white
+*.color7:       #36342f
+*.color15:      #0a006f
+
+
