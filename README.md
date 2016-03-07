@@ -4,6 +4,6 @@
 
 ![Alt text](qutebrowser.png?raw=true "Qutebrowser")
 
-![Alt text](layout.pnt?raw=true "Layout")
+![Alt text](layout.png?raw=true "Layout")
 
 ![Alt text](clean.png?raw=true "Clean")
