@@ -17,3 +17,8 @@ git clone http://github.com/dodgejcr/dotfiles.git
 Now move all the files where you need them. If is marked with a '.' then the file belongs in your ~/ directory
 
 If not, it belongs in ~/.config
+
+## Font
+
+I have included the powerline font <Consola> that you need to move to /usr/share/fonts/TTF/
+If you choose not to use the font, change the font line in .Xresources
